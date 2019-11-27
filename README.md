@@ -1,4 +1,7 @@
-# Machine Learning
+# Machine Learning (ML)
 
-This github repository contains my notes, programs that I developed while learning Machine Learning.
-
+## Introduction
+  ### Glance at applications of ML
+  ### Definitions
+  ### ML approach
+  ### Toy example illustrating ML approach along with python programs
