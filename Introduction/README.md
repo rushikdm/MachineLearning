@@ -60,3 +60,8 @@ if given weight <= w, then, the object is light owtherwise it is heavy.
 Here are the python files for this simple toy example:
 [WeightClassifier.py](WeightClassifier.py)
 [TestWeights.py](TestWeights.py)
+
+The result of execution for above python code is as follows:
+w = 6.6
+12 class = WeightType.HEAVY
+2.5 class = WeightType.LIGHT
