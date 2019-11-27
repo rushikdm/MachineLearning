@@ -62,6 +62,9 @@ Here are the python files for this simple toy example:
 [TestWeights.py](TestWeights.py)
 
 The result of execution for above python code is as follows:
+
 w = 6.6
+
 12 class = WeightType.HEAVY
+
 2.5 class = WeightType.LIGHT
